@@ -1,12 +1,12 @@
 {
-    "name": "microsoft/windowsazure",
-    "description": "This project provides a set of PHP client libraries that make it easy to access Windows Azure tables, blobs, queues, service runtime and service management APIs.",
-    "keywords": [ "php", "azure", "sdk" ],
+    "name": "philippe-bourdeau/azure-message-queue",
+    "description": "Forked from Azure/azure-sdk-for-php",
+    "keywords": [ "php", "azure", "sdk", "mq"],
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Azure PHP SDK",
-            "email": "azurephpsdk@microsoft.com"
+            "name": "Philippe Bourdeau",
+            "email": "bourdeau.phil@gmail.com"
         }
     ],
     "require": {

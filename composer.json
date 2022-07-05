@@ -10,16 +10,14 @@
         }
     ],
     "require": {
-        "php": "^7.2.5",
+        "php": "^8.1.0",
         "pear/net_url2": "^2.2",
         "pear/mail_mime": "^1.10",
         "firebase/php-jwt": "^4.0 || ^5.0",
-        "guzzlehttp/guzzle": "^7.4",
-        "zendframework/zend-mime": "^2.6",
-        "zendframework/zend-mail": "^2.7"
+        "guzzlehttp/guzzle": "^7.4"
     },
     "require-dev": {
-        "mikey179/vfsstream": "^1.6",
+        "mikey179/vfsstream": "^1.6.9",
         "phpunit/phpunit": "^4.8.35",
         "phpdocumentor/phpdocumentor": "^2.8",
         "sebastian/phpcpd": "^2.0",

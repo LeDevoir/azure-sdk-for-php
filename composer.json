@@ -1,12 +1,12 @@
 {
-    "name": "philippe-bourdeau/azure-message-queue",
-    "description": "Forked from Azure/azure-sdk-for-php",
+    "name": "ledevoir/azure-message-queue",
+    "description": "Forked from Azure/azure-sdk-for-php - credit to Microsoft for the code base",
     "keywords": [ "php", "azure", "sdk", "mq"],
     "license": "Apache-2.0",
     "authors": [
         {
             "name": "Philippe Bourdeau",
-            "email": "bourdeau.phil@gmail.com"
+            "email": "pbourdeau@ledevoir.com"
         }
     ],
     "require": {
